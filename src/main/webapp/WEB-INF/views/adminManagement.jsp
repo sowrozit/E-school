@@ -14,7 +14,7 @@
 
 <div>
     <h3>Welcome ${username}
-        <img align="right" height="200px"width="200px" src="http://localhost:8080/images/DSC_6739.jpg" alt="">
+        <img align="right" height="200px"width="200px" src="http://localhost:8080/images/me.jpg" alt="">
     </h3>
 
 
