@@ -16,7 +16,7 @@
 
 <h3>
     Welcome ${username}
-    <img align="right" height="100px"width="100px" src="http://localhost:8080/images/DSC_6739.jpg" alt="">
+    <img align="right" height="100px"width="100px" src="http://localhost:8080/images/me.jpg" alt="">
 </h3>
 
     <table class="table table-striped container">
